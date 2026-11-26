@@ -9,7 +9,7 @@ import {
 } from '@mui/material';
 import { Search, Check } from '@mui/icons-material';
 
-import { INGREDIENT_CATEGORIES } from '../data/ingredients';
+import { INGREDIENT_CATEGORIES } from '../ingredients';
 
 const buildOptions = () => {
   const seen = new Map();

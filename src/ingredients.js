@@ -1,13 +1,13 @@
-import pantryIcon from '../icons/pantry.png';
-import vegetablesIcon from '../icons/vegetables.png';
-import fruitsIcon from '../icons/fruits.png';
-import nutsIcon from '../icons/nuts.png';
-import meatsIcon from '../icons/meats.png';
-import seafoodIcon from '../icons/seafood.png';
-import herbsIcon from '../icons/herbs.png';
-import dairyIcon from '../icons/dairy-eggs.png';
-import grainsIcon from '../icons/grains-carbs.png';
-import saucesIcon from '../icons/sauces.png';
+import pantryIcon from './icons/pantry.png';
+import vegetablesIcon from './icons/vegetables.png';
+import fruitsIcon from './icons/fruits.png';
+import nutsIcon from './icons/nuts.png';
+import meatsIcon from './icons/meats.png';
+import seafoodIcon from './icons/seafood.png';
+import herbsIcon from './icons/herbs.png';
+import dairyIcon from './icons/dairy-eggs.png';
+import grainsIcon from './icons/grains-carbs.png';
+import saucesIcon from './icons/sauces.png';
 
 export const INGREDIENT_CATEGORIES = [
   {

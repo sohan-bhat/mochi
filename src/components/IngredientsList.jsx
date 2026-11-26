@@ -14,8 +14,8 @@ import {
 } from '@mui/material';
 import { AutoAwesome, RestartAlt } from '@mui/icons-material';
 
-import { INGREDIENT_CATEGORIES, MEAL_TYPES } from '../data/ingredients';
-import { generateRecipes } from '../lib/groq';
+import { INGREDIENT_CATEGORIES, MEAL_TYPES } from '../ingredients';
+import { generateRecipes } from '../groq';
 import IngredientCategory from './IngredientCategory';
 import IngredientSearch from './IngredientSearch';
 import RecipeResponse from './RecipeResponse';
