@@ -3,8 +3,8 @@ import { Route, Routes as RouterRoutes } from 'react-router-dom';
 
 import Header from './components/Header';
 import Footer from './components/Footer';
-import Home from './pages/Home';
-import Recipes from './pages/Recipes';
+import Home from './components/Home';
+import Recipes from './components/Recipes';
 
 const Routes = () => {
   return (

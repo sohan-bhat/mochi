@@ -1,4 +1,4 @@
-import IngredientsList from '../components/IngredientsList';
+import IngredientsList from './IngredientsList';
 
 const Recipes = () => <IngredientsList />;
 

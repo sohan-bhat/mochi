@@ -1,4 +1,4 @@
-import SplashPage from '../components/SplashPage';
+import SplashPage from './SplashPage';
 
 const Home = () => <SplashPage />;
 
